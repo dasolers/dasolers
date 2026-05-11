@@ -7,7 +7,7 @@ Software Engineering graduate with **10+ years** of professional experience
 in business strategy, digital marketing, customer support, and team
 leadership across **Latin America** and the **United States**.
 
-Currently in **Round Rock, TX** — relocating to **Spain 🇪🇸** in 2026.
+Currently in **Round Rock, TX · Originally from Colombia 🇨🇴 · Available worldwide.
 Open to **remote roles worldwide** and **digital nomad** opportunities.
 
 - 🔭 Building my first projects with **Python & JavaScript**
@@ -81,7 +81,7 @@ Android app for daily task management — fragments and local storage.
 | ✅ 10+ years experience | Multicultural teams & international clients |
 | ✅ Tech + business | Software Engineering meets real-world strategy |
 | ✅ Global clients | IDB · Diageo · Merck · adidas · DirecTV |
-| ✅ Remote-ready | USA now · Spain 2026 · Worldwide always |
+| ✅ Remote-ready | Round Rock, TX · Originally from Colombia 🇨🇴 · Available worldwide |
 
 ---
 
@@ -94,4 +94,4 @@ Android app for daily task management — fragments and local storage.
 
 *Open to remote roles in: Customer Support · Virtual Assistant · Community Manager · Software Engineering · Digital Marketing*
 
-*Available worldwide — currently USA, relocating Spain 2026 🇪🇸*
+*Round Rock, TX · Originally from Colombia 🇨🇴 · Available worldwide*
